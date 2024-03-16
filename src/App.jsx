@@ -31,8 +31,6 @@ function App() {
           <h2>houssam</h2>
           <h2>houssam</h2>
           <h2>houssam</h2>
-          <h2>houssam</h2>
-          <h2>houssam</h2>
         </div>
       </div>
     </>
