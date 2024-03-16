@@ -1,0 +1,7 @@
+create navbar
+create header 
+render .md
+add accounts to .json 
+remove accounts from .json 
+create footer
+

@@ -1,0 +1,18 @@
+img {
+
+  height: 10em;
+}
+
+button {
+  margin: 6em;
+}
+
+.slider {
+  display: inline;
+  background: #FFFFFF;
+}
+
+.slide1 {
+  background-color: #272727;
+  border: 9em 20em 0em 0em;
+}
